@@ -38,21 +38,23 @@ result.trend.plot()
 result.plot()
 ```
 ## Output:
+### data.head()
 ![s1](https://github.com/praveenst13/-perform-time-series-analysis-and-decomposition-on-the-monthly-average-temperature-of-a-city-country/assets/118787793/9611d5be-5ea5-4ddd-be74-dbcd7a4a7dbc)
 
 
-
+### data.plot()
 
 ![s2](https://github.com/praveenst13/-perform-time-series-analysis-and-decomposition-on-the-monthly-average-temperature-of-a-city-country/assets/118787793/5bcf5dc7-53d1-4cb6-b010-22e9940c62d3)
-
+### result.seasonal.plot()
 ![s3](https://github.com/praveenst13/-perform-time-series-analysis-and-decomposition-on-the-monthly-average-temperature-of-a-city-country/assets/118787793/a15d8391-c63f-4d81-a84b-78de8fa21f39)
 
-
+### result.trend.plot()
 
 ![s4](https://github.com/praveenst13/-perform-time-series-analysis-and-decomposition-on-the-monthly-average-temperature-of-a-city-country/assets/118787793/7cd52086-4702-425e-95a9-5fe48a01f57b)
-
+### result.plot()
 ![s5](https://github.com/praveenst13/-perform-time-series-analysis-and-decomposition-on-the-monthly-average-temperature-of-a-city-country/assets/118787793/855e6de5-a200-4b67-ab72-c1bff2bda08a)
 
 
 
 ## Result:
+Thus the program to  time series analysis and decomposition on the monthly average temperature of a city/country  is written and verified using python programming.
