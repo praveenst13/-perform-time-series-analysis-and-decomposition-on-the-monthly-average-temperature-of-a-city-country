@@ -24,7 +24,7 @@ data =pd.read_csv("/content/temperatures.csv",parse_dates=["YEAR"])
 data.head()
 
 data.set_index("YEAR",inplace=True)
-data.index=pd.to_datetime(data.index)![s1](https://github.com/praveenst13/-perform-time-series-analysis-and-decomposition-on-the-monthly-average-temperature-of-a-city-country/assets/118787793/fec91800-5d94-4e19-a058-790340f29b2f)
+data.index=pd.to_datetime(data.index)
 
 data.dropna(inplace=True)
 data.plot()
